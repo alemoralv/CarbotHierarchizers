@@ -1,6 +1,6 @@
 # reformatPRO
 
-A Python toolset for fixing heading levels in Markdown files. Designed for Profuturo legal documents (Mexican retirement savings regulations), it uses reference hierarchy files to correct structural issues that arise when PDFs are converted to Markdown via OCR.
+A Python toolset for fixing heading levels in Markdown files. Designed for legal documents, it uses reference hierarchy files to correct structural issues that arise when PDFs are converted to Markdown via OCR.
 
 ## Overview
 
