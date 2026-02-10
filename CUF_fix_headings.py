@@ -2,7 +2,7 @@
 """
 fix_headings.py
 
-Fixes heading levels in MinerU-generated Markdown files using a reference
+Fixes heading levels in generated Markdown files using a reference
 hierarchy file that contains the correct nesting depth for each heading.
 
 Handles three cases:
